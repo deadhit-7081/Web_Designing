@@ -1,0 +1,60 @@
+h1
+{
+    color: white;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color:darksalmon;
+    text-align: center;
+    padding: 15px;
+}
+header{
+    background: -webkit-linear-gradient(top,#e9967a 0%, #fff 100%);
+}
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    display: inline-block;
+    width: 15%;
+    background-color:whitesmoke;
+    text-decoration: none;
+}
+h2
+{
+    color: darkorchid;
+    background-color:lightcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+}
+details
+{
+    font-style: italic;
+}
+summary
+{
+    font-style: normal;
+}
+footer{
+    background-color: rgb(204, 176, 50);
+    clear: both;
+}
+body{
+    margin: 4%;
+}
+section{
+    width: 20%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+img{
+    width: 85px;
+}
+.half
+{
+    width: 40%;
+}
